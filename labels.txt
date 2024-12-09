@@ -1,0 +1,5 @@
+0 Bacterial disease-Aeromoniasis
+1 Bacterial gill disease
+2 Parasitic disease
+3 viral disease white tail disease
+4 Healthy fish
