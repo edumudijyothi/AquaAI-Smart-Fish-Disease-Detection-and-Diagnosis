@@ -1,7 +1,7 @@
-Overview
+**Overview**
 This project uses a Convolutional Neural Network (CNN) model to classify fish diseases based on images. The system can detect whether a fish is diseased or healthy and provide relevant precautions for diseased fish. It is intended to help farmers quickly diagnose and manage the health of their fish in aquaculture environments.
 
-Technologies Used
+**Technologies Used**
 Deep Learning: Convolutional Neural Networks (CNN) for image classification.
 Flask: For building the web application backend.
 TensorFlow/Keras: For developing and training the CNN model.
@@ -21,7 +21,7 @@ Fully Connected Layer: A dense layer to classify the extracted features.
 
 Output Layer: A softmax layer to predict the class of the fish (Healthy or Diseased).
 
-Model architecture summary:
+**Model architecture summary:**
 
 Conv2D → MaxPooling2D → Conv2D → MaxPooling2D → Flatten → Dense → Output
 Dataset
@@ -45,7 +45,9 @@ Temperature Control: Ensure the water temperature is appropriate for the species
 These recommendations are dynamically generated and returned with the prediction result.
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. You can help improve the model, add more features to the app, or suggest improvements.
-Acknowledgments
+
+**Acknowledgments**
+
 TensorFlow/Keras: For the powerful deep learning framework.
 Flask: For the web development framework.
 Pillow: For image processing and manipulation.
