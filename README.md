@@ -1,4 +1,6 @@
+
 **Overview**
+
 This project uses a Convolutional Neural Network (CNN) model to classify fish diseases based on images. The system can detect whether a fish is diseased or healthy and provide relevant precautions for diseased fish. It is intended to help farmers quickly diagnose and manage the health of their fish in aquaculture environments.
 
 **Technologies Used**
